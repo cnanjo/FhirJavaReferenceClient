@@ -10,10 +10,18 @@ For those who prefer coding in C#, please take a look at the Ewout Kramer's C# R
 
 https://github.com/ewoutkramer/fhir-net-api
 
+In need of a JavaScript FHIR client, please take a look at Josh Mandel's implementation:
+
+https://github.com/jmandel/fhir-js-client
+
 Feedback
 --------
 
-If you are using the client and encounter bugs or have feedback on how to improve this implementation, please do so. It will be greatly appreciated.
+If you are using the client and encounter bugs or have feedback on how to improve this implementation, please do so by submitting an issue:
+
+https://github.com/cnanjo/FhirJavaReferenceClient/issues
+
+All feedback is greatly appreciated.
 
 Build
 -----

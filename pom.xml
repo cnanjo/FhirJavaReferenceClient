@@ -54,8 +54,8 @@
 		</dependency>
 		<dependency>
 			<groupId>me.fhir</groupId>
-			<artifactId>fhir-0.12</artifactId>
-			<version>r2344-SNAPSHOT</version>
+			<artifactId>fhir-0.81</artifactId>
+			<version>2382-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 	<repositories>
